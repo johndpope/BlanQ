@@ -1,4 +1,4 @@
 base_path=/root/BlanQ
-server_file=/ServerLines/YetAnotherFlaskServer.py
+server_file=/server/YetAnotherFlaskServer.py
 
 python $server_file &
